@@ -1,0 +1,21 @@
+{
+  "name": "api_argentina",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "api",
+    "argentina",
+    "proceres"
+  ],
+  "author": "TzVera",
+  "license": "ISC",
+  "description": "An API about procers of Argentina",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.6"
+  }
+}
