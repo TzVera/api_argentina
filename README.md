@@ -37,7 +37,7 @@
 1. Clonar el repositorio: 
    
    ~~~
-    git clone https://github.com/TzVera/e-commerce.git 
+    git clone https://github.com/TzVera/api_argentina
    ~~~
 
 2. Instalar dependencias:
