@@ -2,20 +2,20 @@
 
 >> ## **_<u>Trabajo integrador final</u>_** 
  
-* Utilizando express + Mongo DB Desarrollar una API con los servicios necesarios para las operaciones CRUD sobre cualquier recurso de su elección (productos, usuarios, clientes, películas, etc.):
+Utilizando express + Mongo DB Desarrollar una API con los servicios necesarios para las operaciones CRUD sobre cualquier recurso de su elección (productos, usuarios, clientes, películas, etc.):
 
-* Los servicios deben permitir:
+Los servicios deben permitir:
 
 - Listar todos los items de una colección en la base de datos.
 - Crear un item.
 - Modificar un item.
 - Borrar un item.
 
-* Cualquier usuario puede pedir el listado.
+Cualquier usuario puede pedir el listado.
 
 >>> ### Detalles de api_argentina: 
 
-* API con información sobre próceres argentinos. Contiene los siguientes datos:
+API con información sobre próceres argentinos. Contiene los siguientes datos:
 
 - name (Nombre).
 - alias (Apodo).
@@ -37,7 +37,7 @@
 1. Clonar el repositorio: 
    
    ~~~
-    git clone https://github.com/TzVera/e-commerce.git 
+    git clone https://github.com/TzVera/api_argentina
    ~~~
 
 2. Instalar dependencias:
